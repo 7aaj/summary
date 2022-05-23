@@ -10,15 +10,15 @@ the HTML is the nouns of a web page and the CSS is the style and the javascript 
 html and css aren't a programing languages.
 MDN is a resourse for web technology and its created by devolpers.
 
-basics of the html language and rules about it like using more than one (number one heading <h1>) its a bad practise move!
+basics of the html language and rules about it like using more than one (number one heading </h1>) its a bad practise move!
 
 there is structure that supposed to be in every html document
 
 using the <! DOCTYPE html> for telling the browser that im using the latest features in html and its not have a closeing tag!
 
-<html> is the root element 
+</html> is the root element 
 
-<head> contains machine readable information like the (metadata)
+</head> contains machine readable information like the (metadata)
 
 the title element is the name of the site and its should typed in the head element
 
@@ -26,7 +26,7 @@ the title element is the name of the site and its should typed in the head eleme
 <body> its were we put every thing in the web page 
 
 
-the <ol> (orderd list) list the items with numbers and the <ul> (unorderd list) list the items as bulets and we can nest them both togather.
+the </ol> (orderd list) list the items with numbers and the </ul> (unorderd list) list the items as bulets and we can nest them both togather.
 
 you need to type the full link for making the browser that you are serching in the world wide web not on your local device.
 
