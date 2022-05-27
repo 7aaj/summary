@@ -1,5 +1,5 @@
 # summary
-training-summary-day02
+training-summary-day01
 
 the world wide web is the information system that allows us to share resources over the global network of networks that named as "the internet" that transferrd by the HTTP 
 the HTTP hypertext transfer protocol and its the language that the browser talk to the server with.
